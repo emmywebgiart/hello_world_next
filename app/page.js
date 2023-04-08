@@ -9,7 +9,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Emmy WEBGi ART
+          Welcome to Emmy WEBGi ART
         </p>
         <div>
           <a
